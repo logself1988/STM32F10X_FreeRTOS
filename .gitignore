@@ -32,6 +32,7 @@
 *.i*86
 *.x86_64
 *.hex
+*.bin
 
 # Debug files
 *.dSYM/
@@ -88,7 +89,10 @@
 *.sct
 *.tra
 *.htm
-
+*.info_code
+*.info_elf
+*.info_size
+*.info_symbol
 # VIM: Temperory files
 *~
 
